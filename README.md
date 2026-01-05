@@ -3,7 +3,7 @@
 
 ## A high performance proxy rotator for linux
 
-| Author: | O.G. BitBlt - [bitbltog@proton.me](mailto:bitbltog@proton.me) | | --- | --- |
+| Author: | O.G. BitBlt - [bitbltog@proton.me](mailto:bitbltog@proton.me) |
 | Version: | 0.0.1 |
 | Git Hub: | [http://github.com/ogbitblt/prossimo](http://github.com/ogbitblt/prossimo) |
 | License: | MIT |
