@@ -1,0 +1,15 @@
+server:
+  listen_addr: "127.0.0.1"
+  listen_port: 8888
+  rotate_every_requests: 10
+
+proxies:
+  source_file: "lists/proxies.lst"
+  live_output_file: "lists/liveproxies.lst"
+  validation_url: "https://api.ipify.org"
+  timeout_seconds: 5
+  validate_on_startup: true
+
+logging:
+  level: "error"   # trace | debug | info | warn | error
+  file: "/var/log/prossimo.log"
